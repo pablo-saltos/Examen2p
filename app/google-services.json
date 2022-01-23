@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028178869936",
+    "project_id": "examensp-def2c",
+    "storage_bucket": "examensp-def2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028178869936:android:7deacf17fa8d22a1e98575",
+        "android_client_info": {
+          "package_name": "facci.pablosaltos.examensp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028178869936-9j48ji4u3kjvg1lsa736hquqhs50k3r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNma1Wq5c1SAirOY5O0mxSahOcyfnozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028178869936-9j48ji4u3kjvg1lsa736hquqhs50k3r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
